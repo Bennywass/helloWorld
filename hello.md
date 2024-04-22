@@ -18,7 +18,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 
 |Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
 |----------|----------|--------|--------------------------------------------|-------------|
-| 4/22/24  | 1:30 PM  |   IM   |                                            |             |
+| 4/22/24  | 1:30 PM  |   IM   |                                            |    0h:23m   |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
@@ -31,19 +31,19 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.  For the Hello World program, you will complete this at the end of Week 1.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/Bennywass/helloWorld
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/2F-bE8Eyv_I
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   | N/A    |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |  Yes   |
+|Did you complete all the unique requirements for the module?|  Yes   |
+|Did you write at least 100 lines of code?                   |  N/A   |
+|Did you fully complete the readme.md file?                  |  Yes   |
+|Did you put the readme.md file in GitHub in the top folder? |  Yes   |
 
 4. In each Sprint, you will have the opportunity to complete an optional Stretch Challenge for bonus points.  You will normally report what you did here.  There is no Stretch Challenge for Hello World.
 
@@ -51,8 +51,8 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      0h:23m       |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
-
+I mean, it's a Hello World program, hard to have things not work out. 
